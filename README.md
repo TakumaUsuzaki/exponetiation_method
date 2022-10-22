@@ -34,7 +34,8 @@ bioRxiv 2021.03.11.434925; doi: https://doi.org/10.1101/2021.03.11.434925](https
 Usuzaki, Takuma et al.
 Lung Cancer, Volume 160, 175 - 178, doi: https://doi.org/10.1016/j.lungcan.2021.06.021](https://www.lungcancerjournal.info/article/S0169-5002(21)00468-2/fulltext)
 
-
+## Acknowledgement
+The authors acknowledge the National Cancer Institute and the Foundation for the National Institutes of Health, and their critical role in the creation of the free publicly available LIDC/IDRI database used in this study. Data used in this research were obtained from The Cancer Imaging Archive (TCIA) sponsored by the Cancer Imaging Program, DCTD/NCI/NIH, https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI.
 
 
 
