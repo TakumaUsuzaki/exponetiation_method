@@ -6,6 +6,8 @@ Exponentiation method is an augmentation method for deep learning. In ecponentia
 
 Figure shows lung nodules on CT image which are applied exponentiation method by changing the exponent value 1.0-6.0.
 
+<img src="画像のURL" width="画像のサイズ">
+
 ## How to run the test code
 
 Prepare the 4 directories which are composed of "training images categorized as 1", "training images categorized as 2", "test images categorized as 1", and "test images categorized as 2". In our implementation we used ".npy" file to increase execution speed. When you execute "__main__.py", you are required 8 inputs: exponent, epoch, batch size, path for training images categorized as 1, path for training images categorized as 2, path for test images categorized as 1, path for test images categorized as 2, and path for output. In the test code execution, please input as follows.
