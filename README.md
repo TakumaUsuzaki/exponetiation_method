@@ -29,6 +29,15 @@ Please Enter Output path: ../tests
 ```
 
 After exesution, you obtain the output json file.
+Statistical metrics are defined as follows:
+* train_loss: value of loss function in training process
+* train_acc: accuracy in training process
+* test_loss: value of loss function in test process
+* test_acc: accuracy in training process
+* TP: the number of true positive images
+* FP: the number of false positive images
+* FN: the number of false negative images
+* FP: the number of false positive images
 
 ```
 {
