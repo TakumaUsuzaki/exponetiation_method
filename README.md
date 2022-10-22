@@ -13,11 +13,11 @@ Prepare the 4 directories which are composed of "training images categorized as 
 ```
 Enter an exponent value: 5.0
 Enter the epoch: 100
-Please Enter Path of category 1 for train: "../tests/train1"
-Please Enter Path of category 2 for train: "../tests/train2"
-Please Enter Path of category 1 for test: "../tests/test1"
-Please Enter Path of category 2 for test: "../tests/test2"
-Please Enter Output path: "../tests"
+Please Enter Path of category 1 for train: ../tests/train1
+Please Enter Path of category 2 for train: ../tests/train2
+Please Enter Path of category 1 for test: ../tests/test1
+Please Enter Path of category 2 for test: ../tests/test2
+Please Enter Output path: ../tests
 ```
 
 After exesution, you obtain the output json file.
