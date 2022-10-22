@@ -8,11 +8,12 @@ Figure shows lung nodules on CT image which are applied exponentiation method by
 
 ## How to run the test code
 
-Prepare the 4 directories which are composed of "training images categorized as 1", "training images categorized as 2", "test images categorized as 1", and "test images categorized as 2". In our implementation we used ".npy" file to increase execution speed. When you execute "__main__.py", you are required 7 inputs: exponent, epoch, path for training images categorized as 1, path for training images categorized as 2, path for test images categorized as 1, path for test images categorized as 2, and path for output. In the test code execution, please input as follows.
+Prepare the 4 directories which are composed of "training images categorized as 1", "training images categorized as 2", "test images categorized as 1", and "test images categorized as 2". In our implementation we used ".npy" file to increase execution speed. When you execute "__main__.py", you are required 8 inputs: exponent, epoch, batch size, path for training images categorized as 1, path for training images categorized as 2, path for test images categorized as 1, path for test images categorized as 2, and path for output. In the test code execution, please input as follows.
 
 ```
-Enter an exponent value: 5.0
-Enter the epoch: 100
+Please Enter an exponent value: 5.0
+Please Enter the epoch: 100
+Please Enter the batch size: 20
 Please Enter Path of category 1 for train: ../tests/train1
 Please Enter Path of category 2 for train: ../tests/train2
 Please Enter Path of category 1 for test: ../tests/test1
