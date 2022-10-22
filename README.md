@@ -30,6 +30,58 @@ Please Enter Output path: ../tests
 
 After exesution, you obtain the output json file.
 
+```
+{
+    "train_loss": [
+        151.3463134765625,
+        73.02079010009766,
+        12.863306999206543,
+        ...
+    ],
+    "train_acc": [
+        0.0,
+        0.15,
+        0.95,
+        ...
+    ],
+    "test_loss": [
+        21.342317581176758,
+        6.33903694152832,
+        12.500314712524414,
+        ...
+    ],
+    "test_acc": [
+        0.16666666666666666,
+        0.8333333333333334,
+        0.6666666666666666,
+         ...
+    ],
+    "TP": [
+        0,
+        0,
+        ...
+    ],
+    "FP": [
+        0,
+        1,
+        2,
+        ...
+    ],
+    "FN": [
+        0,
+        0,
+        0,
+         ...
+    ],
+    "TN": [
+        1,
+        5,
+        4,
+        ...
+    ]
+}
+```
+
 ## Citation
 When you use code in this repository, please cite papers below.
 
